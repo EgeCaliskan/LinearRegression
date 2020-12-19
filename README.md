@@ -1,1 +1,1 @@
-#%60 başarı bulan bir logistic regression projesi
+%60 başarı bulan bir logistic regression projesi
