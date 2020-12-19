@@ -1,1 +1,1 @@
-# LinearRegression
+#%60 başarı bulan bir logistic regression projesi
